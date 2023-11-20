@@ -1,4 +1,4 @@
-package com.rational;
+package com.rational.junit;
 
 public class Main {
     public static void main(String[] args) {

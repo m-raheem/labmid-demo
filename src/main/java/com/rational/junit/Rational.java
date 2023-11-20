@@ -1,4 +1,4 @@
-package com.rational;
+package com.rational.junit;
 public class Rational {
 	private int numerator;
 	private int denominator;

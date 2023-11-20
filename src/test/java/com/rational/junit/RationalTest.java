@@ -1,8 +1,10 @@
-package com.rational;
+package com.rational.junit;
 import static org.junit.jupiter.api.Assertions.*;
 import org.junit.*;
 import org.junit.jupiter.api.*;
 import org.junit.jupiter.api.Test;
+
+import com.rational.junit.Rational;
 
 class RationalTest {
 	
